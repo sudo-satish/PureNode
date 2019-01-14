@@ -10,3 +10,6 @@
 1.  ``` git clone https://github.com/teamsatish/PureNode.git ```
 2. ```cd PureNode ```
 3. ```node index.js ```
+
+## API
+1. localhost:3000/hello-world
