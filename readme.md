@@ -7,6 +7,6 @@
 4. Pure node js
 
 ## How to run
-1.  ``` git clone repo.git ```
-2. ```cd folderName ```
+1.  ``` git clone https://github.com/teamsatish/PureNode.git ```
+2. ```cd PureNode ```
 3. ```node index.js ```
